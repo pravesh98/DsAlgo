@@ -1,4 +1,4 @@
 # DsAlgo
 Data Structure and Algorithm
 
-1. Knapsack Algorithm <a hreaf="./dynamicprogramming/KnapsackDp.java">click</a>
+1. <a hreaf="src/dynamicprogramming/KnapsackDp.java"> Knapsack Algorithm </a>
