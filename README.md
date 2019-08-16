@@ -1,4 +1,4 @@
 # DsAlgo
 Data Structure and Algorithm
 
-[a Knapsack Algorithm](src/dynamicprogramming/KnapsackDp.java)
+[1. Knapsack Algorithm](src/dynamicprogramming/KnapsackDp.java)
